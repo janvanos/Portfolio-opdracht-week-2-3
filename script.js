@@ -102,3 +102,5 @@ window.onscroll = ()=>{
     menuIcon.classList.remove("bx-x");
     navlist.classList.remove("open");
 }
+
+document.getElementById("year").innerHTML = new Date().getFullYear();

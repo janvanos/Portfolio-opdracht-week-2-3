@@ -921,7 +921,9 @@ footer a {
 
 
 
-@media(max-with:768px) {
+
+
+@media (max-width:768px) {
     #menu-icon{
         display: block;
         transition: all .4s ease;
